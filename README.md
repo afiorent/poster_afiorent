@@ -1,1 +1,1 @@
-This repository contains most of the posters I presented during my PhD at SISSA.
+This repository contains posters of Alfredo Fiorentino's academic career. (2020-)
